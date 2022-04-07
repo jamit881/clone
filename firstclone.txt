@@ -1,0 +1,3 @@
+today I made clone of any random file 
+using git clone <url>
+now firstly it has to be init otherwise file will be untracked 
